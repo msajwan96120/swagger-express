@@ -1,5 +1,5 @@
 {
-  "name": "swagger-express-mw",
+  "name": "swagger-express-mw1",
   "version": "0.8.0",
   "description": "Swagger loader and middleware for express",
   "keywords": [
@@ -8,15 +8,15 @@
     "apis",
     "connect"
   ],
-  "author": "Scott Ganyo <sganyo@apigee.com>",
+  "author": "Scott Ganyo <sganyo@apigee.com>; Aditya Guru <aditya.guru149@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigee-127/swagger-express.git"
+    "url": "https://github.com/adityaguru149/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "git@github.com:multivacplatform/swagger-node-runner.git"
+    "swagger-node-runner1": "0.8.0"
   },
   "devDependencies": {
     "lodash": "^4.17.11",
