@@ -1,3 +1,4 @@
+Just a fork from original with required updates for security vulnerabilities. Be sure to check of the original package is back up. 
 # Middleware for Open API (Swagger) projects
 
 This middleware is used by the [Swagger](https://www.npmjs.com/package/swagger) project. It is designed to handle all your Open API-driven project needs with minimal fuss - and maximal flexibility.
