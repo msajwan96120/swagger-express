@@ -1,6 +1,6 @@
 {
   "name": "swagger-express-mw1",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Swagger loader and middleware for express",
   "keywords": [
     "swagger",
@@ -16,10 +16,10 @@
     "url": "https://github.com/adityaguru149/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner1": "0.8.0"
+    "swagger-node-runner1": "0.9.0"
   },
   "devDependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "mocha": "^5.2.0",
     "should": "^5.2.0"
   },
